@@ -6,4 +6,4 @@
 
 ## Links
 
-- https://hama-engineer.hatenablog.com/
+- https://hama-engineer.hatenablog.com (主に技術系のことを書いている個人ブログ)
